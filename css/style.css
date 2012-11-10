@@ -53,6 +53,7 @@ table {
    
 .ui-page { background-image: url(../images/bg.png) !important; }
 .right { float: right; }
+html { overflow-y: scroll; }
 
 /* ===================
    Header
@@ -152,7 +153,7 @@ h2 {
 
 	.container {
 		width: 800px;
-		margin: 60px auto 0 auto;
+		margin: 60px auto 60px auto;
 		background-color: #FCFCFA;
 	    border: 1px solid #E2E0D8;
 	    border-radius: 5px 5px 5px 5px;

@@ -1,102 +1,101 @@
 {
     "Udacity": [
         {
-        	"title": "Introduction to Computer Science (CS101)",
-        	"keywords": "beginner python programming coding udacity"
+            "title": "Introduction to Computer Science (CS101)",
+            "keywords": "beginner python programming coding udacity"
         },
         {
-        	"title": "Introduction to Physics (PH100):",
-			"keywords": "physics archimedes udacity"
-		},
-		{
-        	"title": "Introduction to Statistics (ST101)",
-        	"keywords": "statistics mathematics probability bayes udacity"
+            "title": "Introduction to Physics (PH100)",
+            "keywords": "physics archimedes udacity"
         },
         {
-        	"title": "Algorithms (CS215)",
-        	"keywords": "python udacity"
+            "title": "Introduction to Statistics (ST101)",
+            "keywords": "statistics mathematics probability bayes udacity"
         },
         {
-        	"title": "Web Development (CS253)",
-        	"keywords": "blog html css javascript udacity"
+            "title": "Algorithms (CS215)",
+            "keywords": "python udacity"
         },
         {
-        	"title": "Software Testing (CS258)",
-        	"keywords": "integration udacity"
-        },
-		{
-        	"title": "Programming Languages (CS262)",
-        	"keywords": "regex expressions udacity"
-        },          
-		{
-        	"title": "Introduction to Theoretical Computer Science (CS313)",
-        	"keywords": "theory algorithms udacity"
-        },          
-		{
-        	"title": "Differential Equations in Action (CS222)",
-        	"keywords": "diffeq python mathematics udacity"
+            "title": "Web Development (CS253)",
+            "keywords": "blog html css javascript udacity"
         },
         {
-        	"title": "Software Debugging (CS259)",
-        	"keywords": "python testing udacity"
+            "title": "Software Testing (CS258)",
+            "keywords": "integration udacity"
         },
         {
-        	"title": "How to Build a Startup (EP245)",
-        	"keywords": "lean startup business udacity"
+            "title": "Programming Languages (CS262)",
+            "keywords": "regex expressions udacity"
         },
         {
-        	"title": "Design of Computer Programs (CS212)",
-        	"keywords": "advanced python udacity"
+            "title": "Introduction to Theoretical Computer Science (CS313)",
+            "keywords": "theory algorithms udacity"
         },
         {
-        	"title": "Artificial Intelligence (CS373)",
-        	"keywords": "ai probability python udacity"
+            "title": "Differential Equations in Action (CS222)",
+            "keywords": "diffeq python mathematics udacity"
         },
         {
-        	"title": "Applied Cryptography (CS387)",
-        	"keywords": "encryption udacity"
+            "title": "Software Debugging (CS259)",
+            "keywords": "python testing udacity"
         },
+        {
+            "title": "How to Build a Startup (EP245)",
+            "keywords": "lean startup business udacity"
+        },
+        {
+            "title": "Design of Computer Programs (CS212)",
+            "keywords": "advanced python udacity"
+        },
+        {
+            "title": "Artificial Intelligence (CS373)",
+            "keywords": "ai probability python udacity"
+        },
+        {
+            "title": "Applied Cryptography (CS387)",
+            "keywords": "encryption udacity"
+        }
+        
     ],
-    
     "Boston Startup School": [
         {
-        	"title": "Product Design",
-        	"keywords": "ui ux front-end development user interface prototyping bss boston"
+            "title": "Product Design",
+            "keywords": "ui ux front-end development user interface prototyping bss boston"
         },
         {
-        	"title": "Software Development",
-			"keywords": "ruby rails jquery html5 css3 bss boston"
-		},
-		{
-        	"title": "Sales & Business Development",
-        	"keywords": "crm business bss boston"
+            "title": "Software Development",
+            "keywords": "ruby rails jquery html5 css3 bss boston"
         },
         {
-        	"title": "Marketing",
-        	"keywords": "analytics bss boston"
+            "title": "Sales & Business Development",
+            "keywords": "crm business bss boston"
+        },
+        {
+            "title": "Marketing",
+            "keywords": "analytics bss boston"
         }
-    ]
-    
+    ],
     "Treehouse": [
         {
-        	"title": "Ruby Foundations",
-        	"keywords": "ruby beginner treehouse"
+            "title": "Ruby Foundations",
+            "keywords": "ruby beginner treehouse"
         },
         {
-        	"title": "Introduction to Programming",
-			"keywords": "javascript js beginner web treehouse"
-		},
-		{
-        	"title": "Build a Simple Ruby on Rails Application",
-        	"keywords": "ruby rails front-end tdd deploy treehouse"
+            "title": "Introduction to Programming",
+            "keywords": "javascript js beginner web treehouse"
         },
         {
-        	"title": "Building Social Features in Ruby on Rails",
-        	"keywords": "ruby rails front-end social treehouse"
+            "title": "Build a Simple Ruby on Rails Application",
+            "keywords": "ruby rails front-end tdd deploy treehouse"
         },
         {
-        	"title": "Build a Simple PHP Application",
-        	"keywords": "php e-commerce html css treehouse"
+            "title": "Building Social Features in Ruby on Rails",
+            "keywords": "ruby rails front-end social treehouse"
+        },
+        {
+            "title": "Build a Simple PHP Application",
+            "keywords": "php e-commerce html css treehouse"
         }
     ]
 }
